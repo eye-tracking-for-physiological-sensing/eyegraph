@@ -1,1 +1,1 @@
-# eyegraph
+# EyeGraph (NeurIPS 2024)
