@@ -1,0 +1,5 @@
+@inproceedings {bandaraeyegraph,
+  title={EyeGraph: Modularity-aware Spatio Temporal Graph Clustering for Continuous Event-based Eye Tracking},
+  author={Bandara, Nuwan Sriyantha and Kandappu, Thivya and Sen, Argha and Gokarn, Ila and Misra, Archan},
+  booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track}
+}
