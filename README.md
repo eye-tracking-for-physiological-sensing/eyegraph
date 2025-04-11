@@ -4,6 +4,11 @@
 
 Please fill out the following form to get access to the dataset: [Form Link](https://forms.office.com/r/PgHHLxgMNj)
 
+## Overview
+
+<img src="https://github.com/eye-tracking-for-physiological-sensing/eyegraph/blob/github-page/resources/overview_eyeGraph_n3.png" width="960" height="540"><br />
+Overview of the proposed approach
+
 ## Citation
 
 If you find our work, including this repository and our dataset, please consider giving a star ⭐ and citing our paper.
