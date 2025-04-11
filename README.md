@@ -4,4 +4,18 @@
 
 Please fill out the following form to get access to the dataset: [Form Link](https://forms.office.com/r/PgHHLxgMNj)
 
+## Citation
+
+If you find our work, including this repository and our dataset, please consider giving a star ⭐ and citing our paper.
+```bibtex
+@article{bandara2024eyegraph,
+  title={EyeGraph: Modularity-aware Spatio Temporal Graph Clustering for Continuous Event-based Eye Tracking},
+  author={Bandara, Nuwan and Kandappu, Thivya and Sen, Argha and Gokarn, Ila and Misra, Archan},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={120366--120380},
+  year={2024}
+}
+```
+
 Please contact Nuwan at pmnsbandara@smu.edu.sg if you have any issues concerning this work. 
