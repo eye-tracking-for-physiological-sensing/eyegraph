@@ -10,6 +10,23 @@ Please fill out the following form to get access to the dataset: [Form Link](htt
 
 <img src="https://github.com/eye-tracking-for-physiological-sensing/eyegraph/blob/main/resources/EyeGraph_overview.png"><br />
 
+## EyeGraph Dataset
+To our knowledge, EyeGraph is the only dataset that comprehensively captures eye-tracking data under naturalistic indoor conditions. In below table, we present a comparative summary of EyeGraph vs. four publicly available event-based eye-tracking datasets, highlighting the distinctive attributes and advantages of each. Further, a detailed analysis on EyeGraph is presented in supplementary materials [1].
+
+| Feature                          | EBV-Eye | EV-Eye | 3ET | 3ET+ | EyeGraph |
+|----------------------------------|--------------------------------------|--------------------------|------------------------|---------------------------|------------------|
+| Tracking End Goal                | Gaze                                 | Gaze                     | Pupil                  | Pupil                     | Pupil            |
+| Representation                   | 2D frame                             | 2D frame                 | 2D frame               | 2D frame                  | Graph            |
+| Learning                         | supervised                           | supervised               | supervised             | supervised                | unsupervised     |
+| Has Grayscale/RGB Frame Data?    | &check;                         | &check;             | &cross;               | &cross;                  | &check;     |
+| Is data from human participants? | &check;                         | &check;             | &cross;               | &check;              | &check;     |
+| Is Monocular?                    | &cross;                             | &cross;                 | N/A                    | &check;              | &check;     |
+| Is Multi-modal?                  | &check;                         | &check;             | &cross;               | &cross;                 | &check;     |
+| Number of participants           | 24                                   | 48                       | N/A                    | 13                        | 40               |
+| Is head-movement allowed?        | &cross;                            | &cross;                 | N/A                    | &cross;                  | &check;     |
+| Accounts lighting changes?       | &cross;                            | &cross;                | &cross;              | &cross;                  | &check;     |
+| Accounts participant mobility?   | &cross;                            | &cross;                | N/A                    | &cross;                  | &check;     |
+
 ## Citation
 
 If you find our work, including this repository and our dataset, please consider giving a star ⭐ and citing our paper.
