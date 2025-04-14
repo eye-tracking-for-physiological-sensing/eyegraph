@@ -11,7 +11,7 @@ Please fill out the following form to get access to the dataset: [Form Link](htt
 <img src="https://github.com/eye-tracking-for-physiological-sensing/eyegraph/blob/main/resources/EyeGraph_overview.png"><br />
 
 ## EyeGraph Dataset
-To our knowledge, EyeGraph is the only dataset that comprehensively captures eye-tracking data under naturalistic indoor conditions. In below table, we present a comparative summary of EyeGraph vs. four publicly available event-based eye-tracking datasets, highlighting the distinctive attributes and advantages of each. Further, a detailed analysis on EyeGraph is presented in supplementary materials [1].
+To our knowledge, EyeGraph is the only dataset that comprehensively captures eye-tracking data under naturalistic indoor conditions. In below table, we present a comparative summary of EyeGraph vs. four publicly available event-based eye-tracking datasets, highlighting the distinctive attributes and advantages of each. Further, a detailed analysis on EyeGraph is presented in supplementary materials.
 
 | Feature                          | EBV-Eye | EV-Eye | 3ET | 3ET+ | EyeGraph |
 |----------------------------------|--------------------------------------|--------------------------|------------------------|---------------------------|------------------|
