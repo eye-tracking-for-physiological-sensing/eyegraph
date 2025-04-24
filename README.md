@@ -32,7 +32,7 @@ To our knowledge, EyeGraph is the only dataset that comprehensively captures eye
 
 ## Citation
 
-If you find our work, including this repository and our dataset, please consider giving a star ⭐ and citing our paper.
+If you find our work useful and/or use in your research work, including the methods, this repository and our dataset, please consider giving a star ⭐ and citing our paper.
 ```bibtex
 @article{bandara2024eyegraph,
   title={EyeGraph: Modularity-aware Spatio Temporal Graph Clustering for Continuous Event-based Eye Tracking},
